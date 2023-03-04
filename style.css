@@ -1,0 +1,136 @@
+body{
+    box-sizing: border-box;
+    font-family: 'Inter';
+    font-style: normal;
+    background-color: black;
+}
+p{
+    width: 236px;
+    height: 39px;
+    left: 30px;
+    top: 29px;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+.p1{
+    
+    width: 497px;
+    height: 39px;
+    left: 30px;
+    top: 140px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+
+}
+hr{
+    height: 0px;
+    left: 0px;
+    border: 1px solid #FFFFFF;
+    transform: rotate(0.46deg);
+}
+input{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1666px;
+    height: 64px;
+    left: 30px;
+    top: 218px;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    background-color: black;
+    color: rgba(255, 255, 255, 0.5);
+}
+.div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 85%;
+    height: 30px;
+  
+}
+.para{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+    width: 497px;
+    height: 20px;
+    line-height: 39px;
+    top: 140px;
+}
+
+button{
+    position: absolute;
+    width: 262px;
+     height: 66px;
+    /* left: 30px; 
+    top: 321px; */
+    background: #FFFFFF;
+    border-radius: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+} 
+.div-container{
+    display: none;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    width: 100%;
+    height: 800px;
+    top: 1000px;
+    margin: 15px
+   
+}
+  /* .b1{
+    display: none;
+    box-sizing: border-box;
+     width: 400px;
+    height: 800px;
+    left: 126px;
+    top: 504px;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    margin: 72px;
+
+}   
+.b2{
+    display: none;
+    box-sizing: border-box;
+    width: 400px;
+    height: 800px;
+    top: 504px;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    margin: 72px;
+}
+.b3{
+    display: none;
+    box-sizing: border-box;
+    width: 400px;
+    height: 800px;
+    top: 504px;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    margin: 72px;
+}
+.buy-now{
+    max-width: 100%;
+    position: absolute;
+    margin-bottom: 0%;
+    width: 402.55px;
+    height: 56px;
+    left: 100px;
+    top: 1160px;
+     background: #FFFFFF; 
+     border-radius: 10px;
+} */ 
